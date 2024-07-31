@@ -15,12 +15,4 @@ This project is a Django application that demonstrates how to implement authenti
 - Django 5.0+
 - Django REST Framework 3.14+
 - PyJWT 2.6+
-- SQLite (default database)
-
-## Installation
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone <repository-url>
-   cd django_jwt_auth
+- MySQL
